@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/useReducer/static/css/main.0f7935fb.chunk.css",
+    "main.js": "/useReducer/static/js/main.79392ba7.chunk.js",
+    "main.js.map": "/useReducer/static/js/main.79392ba7.chunk.js.map",
+    "runtime-main.js": "/useReducer/static/js/runtime-main.906feea9.js",
+    "runtime-main.js.map": "/useReducer/static/js/runtime-main.906feea9.js.map",
+    "static/css/2.ff645aaf.chunk.css": "/useReducer/static/css/2.ff645aaf.chunk.css",
+    "static/js/2.7a1a34f7.chunk.js": "/useReducer/static/js/2.7a1a34f7.chunk.js",
+    "static/js/2.7a1a34f7.chunk.js.map": "/useReducer/static/js/2.7a1a34f7.chunk.js.map",
+    "index.html": "/useReducer/index.html",
+    "precache-manifest.ad77be7427ae8cab1aae64badc4b7400.js": "/useReducer/precache-manifest.ad77be7427ae8cab1aae64badc4b7400.js",
+    "service-worker.js": "/useReducer/service-worker.js",
+    "static/css/2.ff645aaf.chunk.css.map": "/useReducer/static/css/2.ff645aaf.chunk.css.map",
+    "static/css/main.0f7935fb.chunk.css.map": "/useReducer/static/css/main.0f7935fb.chunk.css.map",
+    "static/js/2.7a1a34f7.chunk.js.LICENSE.txt": "/useReducer/static/js/2.7a1a34f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.906feea9.js",
+    "static/css/2.ff645aaf.chunk.css",
+    "static/js/2.7a1a34f7.chunk.js",
+    "static/css/main.0f7935fb.chunk.css",
+    "static/js/main.79392ba7.chunk.js"
+  ]
+}
